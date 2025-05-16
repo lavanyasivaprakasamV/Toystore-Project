@@ -29,7 +29,7 @@ const toys = {
       name: "Cricket",
       price: 23.99,
       image:
-        "https://assets.forestholidays.co.uk/damprodblob/assets/siteassets/forestipedia/blogs/classic-outdoor-games/medium_cricket_0ef076cf87.jpg",
+        "https://media.istockphoto.com/id/497200317/photo/sometimes-youve-got-to-play-it-safe.jpg?s=612x612&w=0&k=20&c=BQjx_AVKzCqiQipFtJ7pLI2Y_E0pkhFOlvZ20eGXkDE=",
       description: "Hit big shots with this professional-grade cricket bat and ball set!",
     },
     {
